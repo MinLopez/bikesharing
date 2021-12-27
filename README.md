@@ -70,7 +70,7 @@ This chart shows that there are over one million more male users than female use
 This chart also shows that there are more unknown users than female users.
 
 
-![Resources/D3MChart01.png](Resources/D3MChart01.png) 
+![Resources/D3MChart02.png](Resources/D3MChart02.png) 
 *Deliverable 3 Chart 2 from Module - Average Trip Time per birth year*
 
 This chart shows it is likely the data is inaccurate as there are very long rides conducted by those in the 1980s. Life expectency is less than a hundred years old and this is well over a hundred years old. The average time of their trips are very high in comparison to the majority of the data.
