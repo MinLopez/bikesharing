@@ -10,7 +10,7 @@ A Tableau story was created to cover each visualization to identify any potentia
 ### Checkout Time for Users
 
 ![Resources/D2Chart01.png](Resources/D2Chart01.png) 
-*Chart 1*
+*Deliverable 2 Chart 1*
 
 This chart focused on how long users generally user bikes and how many bike rides occur.
 As most data is within the first 2 hours, this was the time used for the three charts - 0 hours to less than 3 hours.
@@ -21,7 +21,7 @@ By the two hour mark, there are less than a hundred bike rides that last that lo
 ### Checkout Time by Gender
 
 ![Resources/D2Chart02.png](Resources/D2Chart02.png) 
-*Chart 2*
+*Deliverable 2 Chart 2*
 
 This chart has similar to data to Chart 1. The difference is now it shows the gender. 
 This chart shows that the majority of users within the first half hour are Males peak at close to the 110K mark.
@@ -32,7 +32,7 @@ Very few rides last past the first hour similar to Chart 1.
 ### Trips by Weekday per Hour
 
 ![Resources/D2Chart03.png](Resources/D2Chart03.png) 
-*Chart 3*
+*Deliverable 2 Chart 3*
 
 This chart shows the the usuage throughout the week and 24 hours of each day.
 Most rides occur Monday through Friday at 8am and around 5-6pm.
@@ -44,7 +44,7 @@ It also seems as though the weekends do not reach as much usage as the weekdays 
 ### Trips by Gender (Weeday per Hour)
 
 ![Resources/D2Chart04.png](Resources/D2Chart04.png) 
-*Chart 4*
+*Deliverable 2 Chart 4*
 
 This chart shows similar informaiton as chart 3 in that is shows peak days and times. The difference is that it focuses on gender.
 Similar to chart 2, it also shows more males use bikes than females.
@@ -54,7 +54,7 @@ There are less unknown users than male or female, but the amount does seem to go
 ### User Trips by Gender by Weekday
 
 ![Resources/D2Chart05.png](Resources/D2Chart05.png) 
-*Chart 5*
+*Deliverable 2 Chart 5*
 
 This chart shows whether the user is a customer, or subscriber as well as the gender and usage.
 It seems subscribers use the bikes the most. As seen in both chart 2 and chart 4 Males are the biggest users and they happen to be the most subsribers.
@@ -63,14 +63,38 @@ Thursday seems to be the heaviest day for subscribers.
 Many unknown users use bikes on Sunday and Friday which supports the idea of tourists/visitors who may not be subsribed may be accessing these bikes.
 
 
+![Resources/D3MChart01.png](Resources/D3MChart01.png) 
+*Deliverable 3 Chart 1 from Module - Gender Breakdown*
+
+This chart shows that there are over one million more male users than female users.
+This chart also shows that there are more unknown users than female users.
+
+
+![Resources/D3MChart01.png](Resources/D3MChart01.png) 
+*Deliverable 3 Chart 2 from Module - Average Trip Time per birth year*
+
+This chart shows it is likely the data is inaccurate as there are very long rides conducted by those in the 1980s. Life expectency is less than a hundred years old and this is well over a hundred years old. The average time of their trips are very high in comparison to the majority of the data.
+
+It also appears as though those born around 1969 have very long average bike ride times. Almost double that than those younger or older than them.
+
+It is possible that both these data points are inaccurate.
+
 ## Summary
 
+### Chart Summary
 Overall, it seems most users are subsribers.
 The majority of subscribers are males who use the bikes Monday-Friday around 8am and 5-6pm. They also use bikes over the weekend in greater quantities than females or unknown.
 Women subscribers use bikes around the same times as men but in less numbers.
 There are many unknown users who used the bike over the weekend when tourists/visitors might be in the area.
 The majority of bikes used by subscribers is on Thursday.
 Bikes are used for less than 30 minutes for the majority of rides.
+Most users seem to be males.
+Most rides seem to be less than 1000.
+
+### Additional Charts
+For one chart, the focus  could be age bins where I could create bins based on 10 year intervals to determine what age groups are riding bikes on specific weekdays and times.
+
+For another chart, the focus could be on correlation of age bins with user status. Perhaps there are more or less subscribers of each age bin group.
 
 
-[link to dashboard](https://github.com/MinLopez/bikesharing/blob/main/NYC_Citi_Bike.twb)
+[link to dashboard](https://public.tableau.com/views/NYC_Citi_Bike_16405696095220/CitiBikeChallenge?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
